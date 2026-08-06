@@ -22,4 +22,5 @@ __________________________________________
 Une fois que vous avez télécharger la/les saison(s) que vous avez choisis, il ne vous reste plus qu'à les extraires (avec winrar, 7zip, ...) (😉 conseil: ne faites aucune extrations .rar/.zip avec le système d'extraction par windows, celui ci peut vite planter)
 
 --> rendez vous dans la prochaine rubrique pour savoir comment importer les saisons dans Atlas
+https://github.com/Skyet0z/comment-installer-Atlas-/tree/gestion-d'Atlas
 
