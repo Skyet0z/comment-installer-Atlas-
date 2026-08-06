@@ -1,10 +1,24 @@
-comment installer Atlas sur son PC ?
+**BONJOUR A TOI JEUNE AVENTURIER NUMERIQUE**
+Bienvenue dans le tutoriel écrit pour savoir comment installer Atlas sur son PC.
+
+Ici, tu es au bon endroit (si toute fois tu suis attentivement le plan du github correctement.
+
+Ce tutoriel est séparée en [a remplir à la fin] parties, merci de suivre comme il le faut chaques étapes de ce tutoriel !
+
+**PLAN DU GITHUB**
+- Page 01 (ici) : Introduction et précision en lien avec Atlas et Reboot
+- Page 02 : Télécharger les saisons de Fortnite
+- Page 03 : Gestion d'Atlas
+- Page 04 : Atlas Backend
+- Page 05 : Jouer avec ses amis (PC ONLY)
+- page 06 : commandes et guide de la console
+- Annexe tiers
+______________________
 
 Dans ce tutoriel, il y a plusieurs points importants à retenir:
 
 ⚠️ tout les fichiers qui sont mis à disposition sur ce Github sont 100% SAFE et LEDGIT, ne vous ammusez pas à installer d'autres fichiers ! ⚠️
 
-______________________
 
 Liste des logiciels à installer :
 
